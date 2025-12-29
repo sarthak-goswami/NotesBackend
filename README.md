@@ -27,5 +27,4 @@ This backend supports basic CRUD operations and is fully deployment-ready with a
 
 ---
 
-## 📂 Project Structure
-
+use this link for the api : https://notesbackend-xpks.onrender.com/api/notes 

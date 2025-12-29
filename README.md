@@ -2,7 +2,7 @@
 
 A simple and clean **RESTful backend** for a Notes application built using **Node.js, Express, and MongoDB**.  
 This backend supports basic CRUD operations and is fully deployment-ready with a cloud database.
-(here)[https://notesbackend-xpks.onrender.com/api/notes] is the link for my API
+[here](https://notesbackend-xpks.onrender.com/api/notes) is the link for my API
 ---
 
 ## 🚀 Features
